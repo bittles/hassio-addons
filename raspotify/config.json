@@ -1,10 +1,10 @@
 {
   "name": "Raspotify",
-  "version": "dev",
+  "version": "0.1a",
   "slug": "raspotify",
   "panel_icon": "mdi:music-circle",
   "description": "Spotify Connect client for the Raspberry Pi that Just Works",
-  "url": "https://github.com/Ulrar/hassio-addons",
+  "url": "https://github.com/bittles/hassio-addons",
   "stage": "experimental",
   "ingress": false,
   "startup": "application",
